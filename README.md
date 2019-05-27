@@ -10,3 +10,5 @@ The Relativ-BNO055-01 sketch is a 9DoF tracker based on the BNO055 sensor. You w
 
 The Relativ-BNO055-01 sketch is pretty much ready to test in your headset right now, if you have a BNO055 board
 The 9DoF_Tracker2 sketch should be headset ready too, if you have a 9250 board (or a 9255 board, if you follow the instructions)
+
+The main actor in the Alpha development is Justin (https://github.com/JustinS-B)
