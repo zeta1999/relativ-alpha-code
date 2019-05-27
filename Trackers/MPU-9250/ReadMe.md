@@ -1,0 +1,1 @@
+These sketches were created for the MPU-9250 based breakout boards. However, many of the boards that are cheaply available online actually have the MPU-9255 chip in them - even though they are sold as MPU-9250 boards. The sketches work just as well with MPU-9255 chips, you just have to make a quick change to the library.
