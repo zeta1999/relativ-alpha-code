@@ -1,0 +1,1 @@
+This is a basic test to see if you have an MPU-9250 chip in your breakout board, or if it has an MPU-9255 instead. The two chips do exactly the same job, you'll just need to update a line in the library if you have an MPU-9255
